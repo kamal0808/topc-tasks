@@ -28,6 +28,26 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 18 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%): familia on worktrees + agent rules; Ramu Kaka split into private Life OS and open-source TOPC project; PROJECTS.md | 2,475 | provisional | familia#1, topc-website#3 |
 | 19 | 2026-10-08 | Kamal Khatwani | Idea (1%): price and write up the open-source Ramu Kaka rebuild. Task priced 1,000 | 10 | provisional | ramu-kaka#1, ramu-kaka#2 |
 | 20 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%): rebuild split into Part A (scrubbed export) and Part B (anyone can run it), priced and posted | 990 | provisional | ramu-kaka#1, ramu-kaka#2 |
+| 21 | 2026-10-10 | Kamal Khatwani | Correction to row 1: founding work repriced on rate card v2 (work done with AI, all of it from 2025 on), and the Neki part moved to Neki's own ledger (21,300, neki-tasks row 1). 5,50,000 → 1,00,300 (breakdown below) | −4,49,700 | provisional | https://github.com/kamal0808/neki-tasks/blob/main/LEDGER.md |
+| 22 | 2026-10-10 | Inas | Correction to row 2: naming Neki moved to Neki's own ledger (neki-tasks row 2) | −1,000 | provisional | https://github.com/kamal0808/neki-tasks/issues/1 |
+
+## Row 21 breakdown (rate card v2, 2026-10-10)
+
+Row 1 priced TOPC's founding work by estimate. This prices the same items against rate card v2 anchors. All of it was done from 2025 on (topc-website starts 2025-01-23), so it's priced as work done with AI. The Neki part (rules, rate card, reference set, test token) is on Neki's ledger instead.
+
+| Item | Anchors | Neki |
+|---|---|---|
+| topc.social: design and build (5 pages, motion) | D3 + 5 × ½ × C3 | 28,250 |
+| Brand: name, positioning and voice | ½ × W1 (name) + W2 (home copy) | 6,000 |
+| Site writing: philosophy, culture, how we work, FAQ | 4 × W1 | 8,000 |
+| OWF: spec, prior-art analysis, simulation | R2 + 6 × W1 + C2 | 21,000 |
+| Ecosystem docs: TOPC.md, PROJECTS.md, briefs (~5,400 words) | 5 × W1 | 10,000 |
+| Mechanism-design skill with 7 research references | 7 × R1 + W1 | 23,000 |
+| Community site (onepercent-collab, one page) | ½ × C3 | 3,250 |
+| Domain and accounts | C1 | 800 |
+| **Total** | | **1,00,300** |
+
+Not included: any company or co-op registration (none priced yet; L3 if and when it happens), and work on other projects (their own ledgers).
 
 ## Row 1 breakdown (rebuild cost, 2026-10-08)
 
