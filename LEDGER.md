@@ -40,6 +40,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 30 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%): cash audit from receipts, 13 payments | 2,970 | provisional | [evidence (private)](https://github.com/kamal0808/topc/blob/master/ecosystem/ledger-evidence/topc-cash-evidence.md) |
 | 31 | 2026-10-09 | Kamal Khatwani | Correction to row 25: work done before 2025 repriced on the hand-work prices (rate card v2.1), items 1, 2, 3, 6, 7, 9, 11, 12 (breakdown below) | 1,75,000 | provisional | https://github.com/kamal0808/topc/pull/15 |
 | 32 | 2026-10-10 | Kamal Khatwani | Correction to row 25: the Neki test token in item 16 is already on Neki's ledger (neki-tasks row 1, C1), so it comes off here | −800 | provisional | https://github.com/kamal0808/neki-tasks/blob/main/LEDGER.md |
+| 33 | 2026-10-11 | Kamal Khatwani | Idea (1%) for topc-tasks#1: topc.social stopped deploying. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/1 |
+| 34 | 2026-10-11 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#1: Netlify builds when there's no cache to diff against. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/14 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
