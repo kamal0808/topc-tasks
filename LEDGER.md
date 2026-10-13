@@ -46,6 +46,12 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 36 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#6: headline, About and Founder entry copy, now live. Anchor ½ × W1 (1,000) | 990 | provisional | https://github.com/kamal0808/topc-tasks/issues/6#issuecomment-6136974040 |
 | 37 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#7: a TOPC LinkedIn cover image. Task priced 1,500 | 15 | provisional | https://github.com/kamal0808/topc-tasks/issues/7 |
 | 38 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#7: 1584 × 396 cover in the site theme, with source. Anchor D1 (1,500) | 1,485 | provisional | https://github.com/kamal0808/topc/pull/19 |
+| 39 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#9: keyboard and nav jumps glide on the home page. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/9 |
+| 40 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#9: glides that start fast and cancel on a real scroll. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/10 |
+| 41 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#10: no Netlify preview deploys or docs-only builds. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/10 |
+| 42 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#10: netlify.toml skips previews, branch deploys and docs-only builds. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/11 |
+| 43 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#11: wishme is a gift registry, Professional Shaadi gets its own repo. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/11 |
+| 44 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#11: PROJECTS.md and wishme.at AGENTS.md updated, professional-shaadi repo set up. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/18 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
