@@ -42,6 +42,10 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 32 | 2026-10-10 | Kamal Khatwani | Correction to row 25: the Neki test token in item 16 is already on Neki's ledger (neki-tasks row 1, C1), so it comes off here | −800 | provisional | https://github.com/kamal0808/neki-tasks/blob/main/LEDGER.md |
 | 33 | 2026-10-11 | Kamal Khatwani | Idea (1%) for topc-tasks#1: topc.social stopped deploying. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/1 |
 | 34 | 2026-10-11 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#1: Netlify builds when there's no cache to diff against. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/14 |
+| 35 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#6: update Kamal's LinkedIn for TOPC. Task priced 1,000 | 10 | provisional | https://github.com/kamal0808/topc-tasks/issues/6 |
+| 36 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#6: headline, About and Founder entry copy, now live. Anchor ½ × W1 (1,000) | 990 | provisional | https://github.com/kamal0808/topc-tasks/issues/6#issuecomment-6136974040 |
+| 37 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#7: a TOPC LinkedIn cover image. Task priced 1,500 | 15 | provisional | https://github.com/kamal0808/topc-tasks/issues/7 |
+| 38 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#7: 1584 × 396 cover in the site theme, with source. Anchor D1 (1,500) | 1,485 | provisional | https://github.com/kamal0808/topc/pull/19 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
