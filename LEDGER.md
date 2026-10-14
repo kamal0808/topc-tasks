@@ -52,6 +52,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 42 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#10: netlify.toml skips previews, branch deploys and docs-only builds. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/11 |
 | 43 | 2026-10-13 | Kamal Khatwani | Idea (1%) for topc-tasks#11: wishme is a gift registry, Professional Shaadi gets its own repo. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/topc-tasks/issues/11 |
 | 44 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#11: PROJECTS.md and wishme.at AGENTS.md updated, professional-shaadi repo set up. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/topc/pull/18 |
+| 45 | 2026-10-14 | Kamal Khatwani | Idea (1%) for topc-tasks#22: research citizens fixing their own city. Task priced 1,500 | 15 | provisional | https://github.com/kamal0808/topc-tasks/issues/22 |
+| 46 | 2026-10-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#22: four sourced examples (Bittu Tabahi, The Ugly Indian, Spacehive, Pune PB), posted on Ideato. Anchor ½ × R1 (1,500) | 1,485 | provisional | https://gist.github.com/kamal0808/9d919e048f3a84a7ac5394093aef1bb4 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
