@@ -56,6 +56,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 46 | 2026-10-14 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#22: four sourced examples (Bittu Tabahi, The Ugly Indian, Spacehive, Pune PB), posted on Ideato. Anchor ½ × R1 (1,500) | 1,485 | provisional | https://gist.github.com/kamal0808/9d919e048f3a84a7ac5394093aef1bb4 |
 | 47 | 2026-10-14 | Kamal Khatwani | Idea (1%) for #32: TEST: hand-in → merge → accepted → ledger rows (1 Neki) | 0 | provisional | https://github.com/kamal0808/topc/pull/29 |
 | 48 | 2026-10-14 | Kamal Khatwani | Work (99%) on #32: TEST: hand-in → merge → accepted → ledger rows (1 Neki) | 1 | provisional | https://github.com/kamal0808/topc/pull/29 |
+| 49 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #34: Who we are heading: The One Percent Company/Community/Co-operative, last word rotating | 8 | provisional | https://github.com/kamal0808/topc/pull/30 |
+| 50 | 2026-10-15 | Kamal Khatwani | Work (99%) on #34: Who we are heading: The One Percent Company/Community/Co-operative, last word rotating | 792 | provisional | https://github.com/kamal0808/topc/pull/30 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
