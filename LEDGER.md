@@ -62,6 +62,12 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 52 | 2026-10-15 | Kamal Khatwani | Work (99%) on #36: Log decision: civic ventures need money in, not customers; gifts booked as pledges | 990 | provisional | https://github.com/kamal0808/topc/pull/31 |
 | 53 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #37: No Neki slips: catch-up tasks, both ledger rows on accept, ledger audit | 15 | provisional | https://github.com/kamal0808/topc/pull/33 |
 | 54 | 2026-10-16 | Kamal Khatwani | Work (99%) on #37: No Neki slips: catch-up tasks, both ledger rows on accept, ledger audit | 1,485 | provisional | https://github.com/kamal0808/topc/pull/33 |
+| 55 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#13: Record: grants aren't charity (backfilled) | 2 | provisional | https://github.com/topc-social/topc-tasks/issues/13 |
+| 56 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#13: Record: grants aren't charity (backfilled) | 198 | provisional | https://github.com/kamal0808/topc/pull/22 |
+| 57 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#16: Pick the legal home for an international 1% Co-op (backfilled) | 30 | provisional | https://github.com/topc-social/topc-tasks/issues/16 |
+| 58 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#16: Pick the legal home for an international 1% Co-op (backfilled) | 2,970 | provisional | https://github.com/kamal0808/topc/pull/23 |
+| 59 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#17: Europe home for TOPC + DAO vs co-op for growth (backfilled) | 60 | provisional | https://github.com/topc-social/topc-tasks/issues/17 |
+| 60 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#17: Europe home for TOPC + DAO vs co-op for growth (backfilled) | 5,940 | provisional | https://github.com/kamal0808/topc/pull/23 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
