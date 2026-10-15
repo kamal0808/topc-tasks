@@ -60,6 +60,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 50 | 2026-10-15 | Kamal Khatwani | Work (99%) on #34: Who we are heading: The One Percent Company/Community/Co-operative, last word rotating | 792 | provisional | https://github.com/kamal0808/topc/pull/30 |
 | 51 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #36: Log decision: civic ventures need money in, not customers; gifts booked as pledges | 10 | provisional | https://github.com/kamal0808/topc/pull/31 |
 | 52 | 2026-10-15 | Kamal Khatwani | Work (99%) on #36: Log decision: civic ventures need money in, not customers; gifts booked as pledges | 990 | provisional | https://github.com/kamal0808/topc/pull/31 |
+| 53 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #37: No Neki slips: catch-up tasks, both ledger rows on accept, ledger audit | 15 | provisional | https://github.com/kamal0808/topc/pull/33 |
+| 54 | 2026-10-16 | Kamal Khatwani | Work (99%) on #37: No Neki slips: catch-up tasks, both ledger rows on accept, ledger audit | 1,485 | provisional | https://github.com/kamal0808/topc/pull/33 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
