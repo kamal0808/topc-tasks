@@ -70,6 +70,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 60 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#17: Europe home for TOPC + DAO vs co-op for growth (backfilled) | 5,940 | provisional | https://github.com/kamal0808/topc/pull/23 |
 | 61 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #39: Task titles anyone can read | 20 | provisional | https://github.com/kamal0808/topc/pull/34 |
 | 62 | 2026-10-16 | Kamal Khatwani | Work (99%) on #39: Task titles anyone can read | 1,980 | provisional | https://github.com/kamal0808/topc/pull/34 |
+| 63 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#40: Ledger rows write themselves when a task is accepted | 65 | provisional | https://github.com/topc-social/topc-tasks/issues/40 |
+| 64 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#40: Ledger rows write themselves when a task is accepted | 6,435 | provisional | https://github.com/topc-social/topc-tasks/pull/41 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
