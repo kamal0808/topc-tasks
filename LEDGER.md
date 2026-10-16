@@ -74,6 +74,8 @@ Kamal's past work on TOPC is row 1, so later rows are a real slice and not the w
 | 64 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#40: Ledger rows write themselves when a task is accepted | 6,435 | provisional | https://github.com/topc-social/topc-tasks/pull/41 |
 | 65 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#19: Write the topc-marketing skill (positioning, audience, voice) | 50 | provisional | https://github.com/topc-social/topc-tasks/issues/19 |
 | 66 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#19: Write the topc-marketing skill (positioning, audience, voice) | 4,950 | provisional | https://github.com/kamal0808/topc/pull/24 |
+| 67 | 2026-10-16 | Kamal Khatwani | Idea (1%) for topc-tasks#20: Redo Kamal's LinkedIn cover with a new message | 25 | provisional | https://github.com/topc-social/topc-tasks/issues/20 |
+| 68 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on topc-tasks#20: Redo Kamal's LinkedIn cover with a new message | 2,475 | provisional | https://github.com/kamal0808/topc/pull/24 |
 
 ## Row 21 breakdown (rate card v2, 2026-10-10)
 
